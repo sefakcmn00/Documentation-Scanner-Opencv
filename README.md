@@ -1,4 +1,4 @@
-# Documantation-Sacnner-Opencv
+# Documantation-Scanner-Opencv
 -----------------------------------------------
 It is the documentation scanner project of our Computer Vision work with Opencv. In this project, documents shown to the computer camera were scanned using Opencv artificial intelligence libraries. Below I tried to explain the details of the project step by step.
 
